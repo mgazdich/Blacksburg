@@ -14,13 +14,27 @@
 		D86048D517F7ED0B00C8EA1B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D86048D417F7ED0B00C8EA1B /* main.m */; };
 		D86048D917F7ED0B00C8EA1B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D86048D817F7ED0B00C8EA1B /* AppDelegate.m */; };
 		D86048DC17F7ED0B00C8EA1B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D86048DA17F7ED0B00C8EA1B /* Main.storyboard */; };
-		D86048DF17F7ED0B00C8EA1B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D86048DE17F7ED0B00C8EA1B /* ViewController.m */; };
 		D86048E117F7ED0B00C8EA1B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D86048E017F7ED0B00C8EA1B /* Images.xcassets */; };
 		D86048E817F7ED0B00C8EA1B /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D86048E717F7ED0B00C8EA1B /* XCTest.framework */; };
 		D86048E917F7ED0B00C8EA1B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D86048C817F7ED0B00C8EA1B /* Foundation.framework */; };
 		D86048EA17F7ED0B00C8EA1B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D86048CC17F7ED0B00C8EA1B /* UIKit.framework */; };
 		D86048F217F7ED0B00C8EA1B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D86048F017F7ED0B00C8EA1B /* InfoPlist.strings */; };
 		D86048F417F7ED0B00C8EA1B /* BlacksburgTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D86048F317F7ED0B00C8EA1B /* BlacksburgTests.m */; };
+		D86048FE17F7EF9C00C8EA1B /* BT.plist in Resources */ = {isa = PBXBuildFile; fileRef = D86048FD17F7EF9C00C8EA1B /* BT.plist */; };
+		D860490017F872F200C8EA1B /* Schedules_Maps.plist in Resources */ = {isa = PBXBuildFile; fileRef = D86048FF17F872F200C8EA1B /* Schedules_Maps.plist */; };
+		D860490217F874DA00C8EA1B /* Places.plist in Resources */ = {isa = PBXBuildFile; fileRef = D860490117F874DA00C8EA1B /* Places.plist */; };
+		D860490417F87D5600C8EA1B /* Recreation.plist in Resources */ = {isa = PBXBuildFile; fileRef = D860490317F87D5600C8EA1B /* Recreation.plist */; };
+		D860490A17F904C800C8EA1B /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D860490917F904C800C8EA1B /* MapViewController.m */; };
+		D860490C17F90C1B00C8EA1B /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D860490B17F90C1B00C8EA1B /* MapKit.framework */; };
+		D860490F17F9220600C8EA1B /* BTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D860490E17F9220600C8EA1B /* BTViewController.m */; };
+		D860491217F949F600C8EA1B /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D860491117F949F600C8EA1B /* WebViewController.m */; };
+		D860491517F9527B00C8EA1B /* ScheduleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D860491417F9527B00C8EA1B /* ScheduleViewController.m */; };
+		D860491B17FA695000C8EA1B /* PlacesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D860491A17FA695000C8EA1B /* PlacesViewController.m */; };
+		D881D7A417FCA7A200E89EBD /* WeatherWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D881D7A317FCA7A200E89EBD /* WeatherWebViewController.m */; };
+		D881D7A717FCAAB400E89EBD /* ArtWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D881D7A617FCAAB400E89EBD /* ArtWebViewController.m */; };
+		D881D7AA17FCBC3F00E89EBD /* NewsWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D881D7A917FCBC3F00E89EBD /* NewsWebViewController.m */; };
+		D881D7AD17FCC0BC00E89EBD /* HospitalWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D881D7AC17FCC0BC00E89EBD /* HospitalWebViewController.m */; };
+		D8FED4BE17FA7D1F004D3D1E /* RecViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8FED4BD17FA7D1F004D3D1E /* RecViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,14 +59,37 @@
 		D86048D717F7ED0B00C8EA1B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D86048D817F7ED0B00C8EA1B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D86048DB17F7ED0B00C8EA1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D86048DD17F7ED0B00C8EA1B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D86048DE17F7ED0B00C8EA1B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D86048E017F7ED0B00C8EA1B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		D86048E617F7ED0B00C8EA1B /* BlacksburgTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlacksburgTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D86048E717F7ED0B00C8EA1B /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		D86048EF17F7ED0B00C8EA1B /* BlacksburgTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BlacksburgTests-Info.plist"; sourceTree = "<group>"; };
 		D86048F117F7ED0B00C8EA1B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D86048F317F7ED0B00C8EA1B /* BlacksburgTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlacksburgTests.m; sourceTree = "<group>"; };
+		D86048FD17F7EF9C00C8EA1B /* BT.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BT.plist; sourceTree = "<group>"; };
+		D86048FF17F872F200C8EA1B /* Schedules_Maps.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Schedules_Maps.plist; sourceTree = "<group>"; };
+		D860490117F874DA00C8EA1B /* Places.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Places.plist; sourceTree = "<group>"; };
+		D860490317F87D5600C8EA1B /* Recreation.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Recreation.plist; sourceTree = "<group>"; };
+		D860490817F904C800C8EA1B /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		D860490917F904C800C8EA1B /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		D860490B17F90C1B00C8EA1B /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		D860490D17F9220600C8EA1B /* BTViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTViewController.h; sourceTree = "<group>"; };
+		D860490E17F9220600C8EA1B /* BTViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTViewController.m; sourceTree = "<group>"; };
+		D860491017F949F600C8EA1B /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		D860491117F949F600C8EA1B /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		D860491317F9527B00C8EA1B /* ScheduleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScheduleViewController.h; sourceTree = "<group>"; };
+		D860491417F9527B00C8EA1B /* ScheduleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScheduleViewController.m; sourceTree = "<group>"; };
+		D860491917FA695000C8EA1B /* PlacesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlacesViewController.h; sourceTree = "<group>"; };
+		D860491A17FA695000C8EA1B /* PlacesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlacesViewController.m; sourceTree = "<group>"; };
+		D881D7A217FCA7A200E89EBD /* WeatherWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeatherWebViewController.h; sourceTree = "<group>"; };
+		D881D7A317FCA7A200E89EBD /* WeatherWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeatherWebViewController.m; sourceTree = "<group>"; };
+		D881D7A517FCAAB400E89EBD /* ArtWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArtWebViewController.h; sourceTree = "<group>"; };
+		D881D7A617FCAAB400E89EBD /* ArtWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArtWebViewController.m; sourceTree = "<group>"; };
+		D881D7A817FCBC3F00E89EBD /* NewsWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsWebViewController.h; sourceTree = "<group>"; };
+		D881D7A917FCBC3F00E89EBD /* NewsWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsWebViewController.m; sourceTree = "<group>"; };
+		D881D7AB17FCC0BC00E89EBD /* HospitalWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HospitalWebViewController.h; sourceTree = "<group>"; };
+		D881D7AC17FCC0BC00E89EBD /* HospitalWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HospitalWebViewController.m; sourceTree = "<group>"; };
+		D8FED4BC17FA7D1F004D3D1E /* RecViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecViewController.h; sourceTree = "<group>"; };
+		D8FED4BD17FA7D1F004D3D1E /* RecViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D860490C17F90C1B00C8EA1B /* MapKit.framework in Frameworks */,
 				D86048CB17F7ED0B00C8EA1B /* CoreGraphics.framework in Frameworks */,
 				D86048CD17F7ED0B00C8EA1B /* UIKit.framework in Frameworks */,
 				D86048C917F7ED0B00C8EA1B /* Foundation.framework in Frameworks */,
@@ -101,6 +139,7 @@
 		D86048C717F7ED0B00C8EA1B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D860490B17F90C1B00C8EA1B /* MapKit.framework */,
 				D86048C817F7ED0B00C8EA1B /* Foundation.framework */,
 				D86048CA17F7ED0B00C8EA1B /* CoreGraphics.framework */,
 				D86048CC17F7ED0B00C8EA1B /* UIKit.framework */,
@@ -115,10 +154,32 @@
 				D86048D717F7ED0B00C8EA1B /* AppDelegate.h */,
 				D86048D817F7ED0B00C8EA1B /* AppDelegate.m */,
 				D86048DA17F7ED0B00C8EA1B /* Main.storyboard */,
-				D86048DD17F7ED0B00C8EA1B /* ViewController.h */,
-				D86048DE17F7ED0B00C8EA1B /* ViewController.m */,
 				D86048E017F7ED0B00C8EA1B /* Images.xcassets */,
 				D86048CF17F7ED0B00C8EA1B /* Supporting Files */,
+				D86048FD17F7EF9C00C8EA1B /* BT.plist */,
+				D86048FF17F872F200C8EA1B /* Schedules_Maps.plist */,
+				D860490117F874DA00C8EA1B /* Places.plist */,
+				D860490317F87D5600C8EA1B /* Recreation.plist */,
+				D860490817F904C800C8EA1B /* MapViewController.h */,
+				D860490917F904C800C8EA1B /* MapViewController.m */,
+				D860490D17F9220600C8EA1B /* BTViewController.h */,
+				D860490E17F9220600C8EA1B /* BTViewController.m */,
+				D860491017F949F600C8EA1B /* WebViewController.h */,
+				D860491117F949F600C8EA1B /* WebViewController.m */,
+				D860491317F9527B00C8EA1B /* ScheduleViewController.h */,
+				D860491417F9527B00C8EA1B /* ScheduleViewController.m */,
+				D860491917FA695000C8EA1B /* PlacesViewController.h */,
+				D860491A17FA695000C8EA1B /* PlacesViewController.m */,
+				D8FED4BC17FA7D1F004D3D1E /* RecViewController.h */,
+				D8FED4BD17FA7D1F004D3D1E /* RecViewController.m */,
+				D881D7A217FCA7A200E89EBD /* WeatherWebViewController.h */,
+				D881D7A317FCA7A200E89EBD /* WeatherWebViewController.m */,
+				D881D7A517FCAAB400E89EBD /* ArtWebViewController.h */,
+				D881D7A617FCAAB400E89EBD /* ArtWebViewController.m */,
+				D881D7A817FCBC3F00E89EBD /* NewsWebViewController.h */,
+				D881D7A917FCBC3F00E89EBD /* NewsWebViewController.m */,
+				D881D7AB17FCC0BC00E89EBD /* HospitalWebViewController.h */,
+				D881D7AC17FCC0BC00E89EBD /* HospitalWebViewController.m */,
 			);
 			path = Blacksburg;
 			sourceTree = "<group>";
@@ -199,6 +260,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Mike Gazdich";
 				TargetAttributes = {
+					D86048C417F7ED0B00C8EA1B = {
+						DevelopmentTeam = 4YCR2BLXKU;
+					};
 					D86048E517F7ED0B00C8EA1B = {
 						TestTargetID = D86048C417F7ED0B00C8EA1B;
 					};
@@ -228,8 +292,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D86048FE17F7EF9C00C8EA1B /* BT.plist in Resources */,
+				D860490417F87D5600C8EA1B /* Recreation.plist in Resources */,
 				D86048E117F7ED0B00C8EA1B /* Images.xcassets in Resources */,
 				D86048D317F7ED0B00C8EA1B /* InfoPlist.strings in Resources */,
+				D860490017F872F200C8EA1B /* Schedules_Maps.plist in Resources */,
+				D860490217F874DA00C8EA1B /* Places.plist in Resources */,
 				D86048DC17F7ED0B00C8EA1B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -249,9 +317,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D86048DF17F7ED0B00C8EA1B /* ViewController.m in Sources */,
+				D860491B17FA695000C8EA1B /* PlacesViewController.m in Sources */,
+				D860490A17F904C800C8EA1B /* MapViewController.m in Sources */,
+				D860491517F9527B00C8EA1B /* ScheduleViewController.m in Sources */,
+				D881D7AD17FCC0BC00E89EBD /* HospitalWebViewController.m in Sources */,
+				D881D7AA17FCBC3F00E89EBD /* NewsWebViewController.m in Sources */,
+				D8FED4BE17FA7D1F004D3D1E /* RecViewController.m in Sources */,
 				D86048D917F7ED0B00C8EA1B /* AppDelegate.m in Sources */,
+				D881D7A717FCAAB400E89EBD /* ArtWebViewController.m in Sources */,
+				D881D7A417FCA7A200E89EBD /* WeatherWebViewController.m in Sources */,
+				D860490F17F9220600C8EA1B /* BTViewController.m in Sources */,
 				D86048D517F7ED0B00C8EA1B /* main.m in Sources */,
+				D860491217F949F600C8EA1B /* WebViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,6 +455,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Blacksburg/Blacksburg-Prefix.pch";
 				INFOPLIST_FILE = "Blacksburg/Blacksburg-Info.plist";
@@ -391,6 +469,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Blacksburg/Blacksburg-Prefix.pch";
 				INFOPLIST_FILE = "Blacksburg/Blacksburg-Info.plist";
@@ -460,6 +539,7 @@
 				D86048F917F7ED0B00C8EA1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D86048FA17F7ED0B00C8EA1B /* Build configuration list for PBXNativeTarget "BlacksburgTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +548,7 @@
 				D86048FC17F7ED0B00C8EA1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

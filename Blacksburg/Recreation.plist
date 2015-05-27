@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Aquatic Center Hours</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1518</string>
+	<key>Athletic Field</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=767</string>
+	<key>Community Center Hours</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=586</string>
+	<key>Ellett Valley Recreational Area</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1437</string>
+	<key>Heritage Community Park and Nature Area</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1164</string>
+	<key>Huckleberry Trail</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=808</string>
+	<key>Municipal Golf Course Programs</key>
+	<string>http://www.golfthehill.com/golf-programs</string>
+	<key>Municipal Parks</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1860</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CRC/Hospital</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1034</string>
+	<key>Harding Avenue</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1024</string>
+	<key>Hethwood</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1024</string>
+	<key>Hokie Express</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=993</string>
+	<key>Main Street</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1010</string>
+	<key>Patrick Henry</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1005</string>
+	<key>Toms Creek</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1000</string>
+	<key>Progress Street</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1353</string>
+	<key>Two Town Trolley</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1743</string>
+	<key>University City Boulevard</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1004</string>
+	<key>University Mall</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1001</string>
+</dict>
+</plist>

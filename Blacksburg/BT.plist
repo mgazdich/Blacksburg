@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Home</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=791</string>
+	<key>General Info</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=884</string>
+	<key>Schedules and Maps</key>
+	<string></string>
+	<key>BT Access</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=886</string>
+	<key>Fares and Passes</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=1068</string>
+	<key>Kid&apos;s Stop</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=888</string>
+	<key>Want To</key>
+	<string>http://www.blacksburg.gov/Index.aspx?page=889</string>
+</dict>
+</plist>
